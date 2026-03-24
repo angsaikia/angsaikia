@@ -1,0 +1,50 @@
+name: Weekly Update
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9am UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick random message
+        id: pick
+        run: |
+          messages=(
+            "warm regards 🍂"
+            "take it easy 🌾"
+            "hope you are well 🌤️"
+            "be gentle with yourself 🍃"
+            "rest when you need to 🌾"
+            "small things matter 🌱"
+            "one step at a time 🪨"
+            "breathe in breathe out 🌬️"
+            "it is okay to be quiet 🍵"
+            "just passing through 🍂"
+            "sitting with it for a while 🌿"
+            "quietly here 🍃"
+          )
+          random_msg="${messages[$RANDOM % ${#messages[@]}]}"
+          echo "message=$random_msg" >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        run: |
+          msg="${{ steps.pick.outputs.message }}"
+          date_str=$(date +"%a, %d %b %Y")
+          sed -i "s|^angsaikia@github:~\$ .*|angsaikia@github:~\$ ${msg}|" README.md
+          sed -i "s|^dated .*|dated ${date_str}|" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: weekly update [skip ci]"
+          git push
