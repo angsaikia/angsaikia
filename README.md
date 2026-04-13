@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ unhurried 🌾
+angsaikia@github:~$ be gentle with yourself 🍃
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ unhurried 🌾
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 06 Apr 2026
+dated Mon, 13 Apr 2026
 ```
