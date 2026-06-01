@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ small things matter 🌱
+angsaikia@github:~$ it is okay to be quiet 🍵
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ small things matter 🌱
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 25 May 2026
+dated Mon, 01 Jun 2026
 ```
