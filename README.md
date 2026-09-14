@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ one step at a time 🪨
+angsaikia@github:~$ small things matter 🌱
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ one step at a time 🪨
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 07 Sep 2026
+dated Mon, 14 Sep 2026
 ```
