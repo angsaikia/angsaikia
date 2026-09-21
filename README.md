@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ small things matter 🌱
+angsaikia@github:~$ nothing urgent 🍂
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ small things matter 🌱
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 14 Sep 2026
+dated Mon, 21 Sep 2026
 ```
