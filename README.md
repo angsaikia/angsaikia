@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ just passing through 🍂
+angsaikia@github:~$ small things matter 🌱
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ just passing through 🍂
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 19 Oct 2026
+dated Mon, 26 Oct 2026
 ```
