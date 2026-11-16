@@ -1,5 +1,5 @@
 ```
-angsaikia@github:~$ rest when you need to 🌾
+angsaikia@github:~$ it is okay to be quiet 🍵
  ___  ___      ___
 |\  \|\  \    |\  \
 \ \  \\\  \   \ \  \
@@ -8,5 +8,5 @@ angsaikia@github:~$ rest when you need to 🌾
    \ \__\ \__\   \ \__\
     \|__|\|__|    \|__|
 
-dated Mon, 09 Nov 2026
+dated Mon, 16 Nov 2026
 ```
